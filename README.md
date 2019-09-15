@@ -1,3 +1,2 @@
-# FIRST
-Just first repository to get comfortable with GH
-This is README. Blah-blah-blah. That's all for today.
+# 
+Just some stupid code to automate the basic linear algebra
